@@ -1,0 +1,14 @@
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\bin\Debug\net7.0\EmployeePayment.exe
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\bin\Debug\net7.0\EmployeePayment.deps.json
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\bin\Debug\net7.0\EmployeePayment.runtimeconfig.json
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\bin\Debug\net7.0\EmployeePayment.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\bin\Debug\net7.0\EmployeePayment.pdb
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\obj\Debug\net7.0\EmployeePayment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\obj\Debug\net7.0\EmployeePayment.AssemblyInfoInputs.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\obj\Debug\net7.0\EmployeePayment.AssemblyInfo.cs
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\obj\Debug\net7.0\EmployeePayment.csproj.CoreCompileInputs.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\obj\Debug\net7.0\EmployeePayment.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\obj\Debug\net7.0\refint\EmployeePayment.dll
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\obj\Debug\net7.0\EmployeePayment.pdb
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\obj\Debug\net7.0\EmployeePayment.genruntimeconfig.cache
+C:\Users\brendon.vieira\Documents\Projetos C#\EmployeePayment\EmployeePayment\obj\Debug\net7.0\ref\EmployeePayment.dll
